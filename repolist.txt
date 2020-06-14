@@ -1,0 +1,13 @@
+asciiquarium
+awscli
+circleci-cli
+cmatrix
+cowsay
+exa
+fortune
+hugo
+jq
+nyancat
+pong-command
+sl
+vim
