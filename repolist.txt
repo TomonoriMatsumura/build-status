@@ -10,4 +10,5 @@ jq
 nyancat
 pong-command
 sl
+terraform
 vim

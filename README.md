@@ -110,6 +110,15 @@ Ansible Role - sl (for CentOS7/CentOS8)
 [![](https://github.com/ansible-roles-matsumura/sl/workflows/ansible-lint/badge.svg)](https://github.com/ansible-roles-matsumura/sl/actions?query=workflow%3Aansible-lint)
 [![](https://github.com/ansible-roles-matsumura/sl/workflows/Trailing%20whitespace/badge.svg)](https://github.com/ansible-roles-matsumura/sl/actions?query=workflow%3A%22Trailing+whitespace%22)
 
+## [ansible-roles-matsumura/terraform](https://github.com/ansible-roles-matsumura/terraform)
+
+Ansible Role - Terraform (for CentOS7/CentOS8)
+
+[![](https://github.com/ansible-roles-matsumura/terraform/workflows/yamllint/badge.svg)](https://github.com/ansible-roles-matsumura/terraform/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-roles-matsumura/terraform/workflows/molecule/badge.svg)](https://github.com/ansible-roles-matsumura/terraform/actions?query=workflow%3Amolecule)
+[![](https://github.com/ansible-roles-matsumura/terraform/workflows/ansible-lint/badge.svg)](https://github.com/ansible-roles-matsumura/terraform/actions?query=workflow%3Aansible-lint)
+[![](https://github.com/ansible-roles-matsumura/terraform/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-roles-matsumura/terraform/actions?query=workflow%3A%22trailing+whitespace%22)
+
 ## [ansible-roles-matsumura/vim](https://github.com/ansible-roles-matsumura/vim)
 
 Ansible Role - vim (for CentOS7/CentOS8)
