@@ -2,6 +2,7 @@ asciiquarium
 awscli
 circleci-cli
 cmatrix
+cureutils
 cowsay
 exa
 fortune
