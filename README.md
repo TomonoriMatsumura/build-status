@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/ansible-roles-matsumura/scheduled-executor.svg?style=svg)](https://circleci.com/gh/ansible-roles-matsumura/scheduled-executor)
+[![CircleCI](https://circleci.com/gh/TomonoriMatsumura/scheduled-executor.svg?style=svg)](https://circleci.com/gh/TomonoriMatsumura/scheduled-executor)
 
 # Ansible role build status
 
@@ -137,3 +137,59 @@ Ansible Role - vim (for CentOS7/CentOS8)
 [![](https://github.com/ansible-roles-matsumura/vim/workflows/molecule/badge.svg)](https://github.com/ansible-roles-matsumura/vim/actions?query=workflow%3Amolecule)
 [![](https://github.com/ansible-roles-matsumura/vim/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-roles-matsumura/vim/actions?query=workflow%3A%22trailing+whitespace%22)
 [![](https://github.com/ansible-roles-matsumura/vim/workflows/yamllint/badge.svg)](https://github.com/ansible-roles-matsumura/vim/actions?query=workflow%3Ayamllint)
+
+# Ansible playbook build status
+
+## [ansible-joke-programs/asciiquarium](https://github.com/ansible-joke-programs/asciiquarium)
+
+Ansible Playbook - ASCIIQuarium (for CentOS7)
+
+[![](https://github.com/ansible-joke-programs/asciiquarium/workflows/ansible-lint/badge.svg)](https://github.com/ansible-joke-programs/asciiquarium/actions?query=workflow%3Aansible-lint)
+[![](https://github.com/ansible-joke-programs/asciiquarium/workflows/molecule/badge.svg)](https://github.com/ansible-joke-programs/asciiquarium/actions?query=workflow%3Amolecule)
+[![](https://github.com/ansible-joke-programs/asciiquarium/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-joke-programs/asciiquarium/actions?query=workflow%3A%22trailing+whitespace%22)
+[![](https://github.com/ansible-joke-programs/asciiquarium/workflows/yamllint/badge.svg)](https://github.com/ansible-joke-programs/asciiquarium/actions?query=workflow%3Ayamllint)
+
+## [ansible-joke-programs/cmatrix](https://github.com/ansible-joke-programs/cmatrix)
+
+Ansible Playbook - CMatrix (for CentOS7/CentOS8)
+
+[![](https://github.com/ansible-joke-programs/cmatrix/workflows/ansible-lint/badge.svg)](https://github.com/ansible-joke-programs/cmatrix/actions?query=workflow%3Aansible-lint)
+[![](https://github.com/ansible-joke-programs/cmatrix/workflows/molecule/badge.svg)](https://github.com/ansible-joke-programs/cmatrix/actions?query=workflow%3Amolecule)
+[![](https://github.com/ansible-joke-programs/cmatrix/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-joke-programs/cmatrix/actions?query=workflow%3A%22trailing+whitespace%22)
+[![](https://github.com/ansible-joke-programs/cmatrix/workflows/yamllint/badge.svg)](https://github.com/ansible-joke-programs/cmatrix/actions?query=workflow%3Ayamllint)
+
+## [ansible-joke-programs/cowsay](https://github.com/ansible-joke-programs/cowsay)
+
+Ansible Playbook - Cowsay (for CentOS7)
+
+[![](https://github.com/ansible-joke-programs/cowsay/workflows/ansible-lint/badge.svg)](https://github.com/ansible-joke-programs/cowsay/actions?query=workflow%3Aansible-lint)
+[![](https://github.com/ansible-joke-programs/cowsay/workflows/molecule/badge.svg)](https://github.com/ansible-joke-programs/cowsay/actions?query=workflow%3Amolecule)
+[![](https://github.com/ansible-joke-programs/cowsay/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-joke-programs/cowsay/actions?query=workflow%3A%22trailing+whitespace%22)
+[![](https://github.com/ansible-joke-programs/cowsay/workflows/yamllint/badge.svg)](https://github.com/ansible-joke-programs/cowsay/actions?query=workflow%3Ayamllint)
+
+## [ansible-joke-programs/cureutils](https://github.com/ansible-joke-programs/cureutils)
+
+Ansible Playbook - Cureutils (for CentOS7)
+
+[![](https://github.com/ansible-joke-programs/cureutils/workflows/ansible-lint/badge.svg)](https://github.com/ansible-joke-programs/cureutils/actions?query=workflow%3Aansible-lint)
+[![](https://github.com/ansible-joke-programs/cureutils/workflows/molecule/badge.svg)](https://github.com/ansible-joke-programs/cureutils/actions?query=workflow%3Amolecule)
+[![](https://github.com/ansible-joke-programs/cureutils/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-joke-programs/cureutils/actions?query=workflow%3A%22trailing+whitespace%22)
+[![](https://github.com/ansible-joke-programs/cureutils/workflows/yamllint/badge.svg)](https://github.com/ansible-joke-programs/cureutils/actions?query=workflow%3Ayamllint)
+
+## [ansible-joke-programs/pong-command](https://github.com/ansible-joke-programs/pong-command)
+
+Ansible Playbook - pong-command (for CentOS7/CentOS8)
+
+[![](https://github.com/ansible-joke-programs/pong-command/workflows/ansible-lint/badge.svg)](https://github.com/ansible-joke-programs/pong-command/actions?query=workflow%3Aansible-lint)
+[![](https://github.com/ansible-joke-programs/pong-command/workflows/molecule/badge.svg)](https://github.com/ansible-joke-programs/pong-command/actions?query=workflow%3Amolecule)
+[![](https://github.com/ansible-joke-programs/pong-command/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-joke-programs/pong-command/actions?query=workflow%3A%22trailing+whitespace%22)
+[![](https://github.com/ansible-joke-programs/pong-command/workflows/yamllint/badge.svg)](https://github.com/ansible-joke-programs/pong-command/actions?query=workflow%3Ayamllint)
+
+## [ansible-joke-programs/sl](https://github.com/ansible-joke-programs/sl)
+
+Ansible Playbook - sl (for CentOS7/CentOS8)
+
+[![](https://github.com/ansible-joke-programs/sl/workflows/ansible-lint/badge.svg)](https://github.com/ansible-joke-programs/sl/actions?query=workflow%3Aansible-lint)
+[![](https://github.com/ansible-joke-programs/sl/workflows/molecule/badge.svg)](https://github.com/ansible-joke-programs/sl/actions?query=workflow%3Amolecule)
+[![](https://github.com/ansible-joke-programs/sl/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-joke-programs/sl/actions?query=workflow%3A%22trailing+whitespace%22)
+[![](https://github.com/ansible-joke-programs/sl/workflows/yamllint/badge.svg)](https://github.com/ansible-joke-programs/sl/actions?query=workflow%3Ayamllint)

@@ -1,0 +1,8 @@
+asciiquarium
+cmatrix
+cowsay
+cureutils
+fortune
+nyancat
+pong-command
+sl
