@@ -15,10 +15,7 @@ Ansible Role - ASCIIQuarium (for CentOS7)
 
 Ansible Role - AWS CLI version2 (for CentOS7/CentOS8)
 
-[![](https://github.com/ansible-roles-matsumura/awscli/workflows/ansible-lint/badge.svg)](https://github.com/ansible-roles-matsumura/awscli/actions?query=workflow%3Aansible-lint)
-[![](https://github.com/ansible-roles-matsumura/awscli/workflows/molecule/badge.svg)](https://github.com/ansible-roles-matsumura/awscli/actions?query=workflow%3Amolecule)
-[![](https://github.com/ansible-roles-matsumura/awscli/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-roles-matsumura/awscli/actions?query=workflow%3A%22trailing+whitespace%22)
-[![](https://github.com/ansible-roles-matsumura/awscli/workflows/yamllint/badge.svg)](https://github.com/ansible-roles-matsumura/awscli/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-roles-matsumura/awscli/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/awscli/actions?query=workflow%3Abuild)
 
 ## [ansible-roles-matsumura/circleci-cli](https://github.com/ansible-roles-matsumura/circleci-cli)
 
