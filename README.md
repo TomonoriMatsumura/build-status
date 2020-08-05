@@ -46,10 +46,7 @@ Ansible Role - Cureutils (for CentOS7)
 
 Ansible Role - exa (for CentOS7/CentOS8)
 
-[![](https://github.com/ansible-roles-matsumura/exa/workflows/ansible-lint/badge.svg)](https://github.com/ansible-roles-matsumura/exa/actions?query=workflow%3Aansible-lint)
-[![](https://github.com/ansible-roles-matsumura/exa/workflows/molecule/badge.svg)](https://github.com/ansible-roles-matsumura/exa/actions?query=workflow%3Amolecule)
-[![](https://github.com/ansible-roles-matsumura/exa/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-roles-matsumura/exa/actions?query=workflow%3A%22trailing+whitespace%22)
-[![](https://github.com/ansible-roles-matsumura/exa/workflows/yamllint/badge.svg)](https://github.com/ansible-roles-matsumura/exa/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-roles-matsumura/exa/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/exa/actions?query=workflow%3Abuild)
 
 ## [ansible-roles-matsumura/fortune](https://github.com/ansible-roles-matsumura/fortune)
 
