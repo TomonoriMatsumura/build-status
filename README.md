@@ -52,10 +52,7 @@ Ansible Role - exa (for CentOS7/CentOS8)
 
 Ansible Role - fortune (for CentOS7)
 
-[![](https://github.com/ansible-roles-matsumura/fortune/workflows/ansible-lint/badge.svg)](https://github.com/ansible-roles-matsumura/fortune/actions?query=workflow%3Aansible-lint)
-[![](https://github.com/ansible-roles-matsumura/fortune/workflows/molecule/badge.svg)](https://github.com/ansible-roles-matsumura/fortune/actions?query=workflow%3Amolecule)
-[![](https://github.com/ansible-roles-matsumura/fortune/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-roles-matsumura/fortune/actions?query=workflow%3A%22trailing+whitespace%22)
-[![](https://github.com/ansible-roles-matsumura/fortune/workflows/yamllint/badge.svg)](https://github.com/ansible-roles-matsumura/fortune/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-roles-matsumura/fortune/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/fortune/actions?query=workflow%3Abuild)
 
 ## [ansible-roles-matsumura/hugo](https://github.com/ansible-roles-matsumura/hugo)
 
