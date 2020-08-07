@@ -91,10 +91,7 @@ Ansible Role - Terraform (for CentOS7/CentOS8)
 
 Ansible Role - vim (for CentOS7/CentOS8)
 
-[![](https://github.com/ansible-roles-matsumura/vim/workflows/ansible-lint/badge.svg)](https://github.com/ansible-roles-matsumura/vim/actions?query=workflow%3Aansible-lint)
-[![](https://github.com/ansible-roles-matsumura/vim/workflows/molecule/badge.svg)](https://github.com/ansible-roles-matsumura/vim/actions?query=workflow%3Amolecule)
-[![](https://github.com/ansible-roles-matsumura/vim/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-roles-matsumura/vim/actions?query=workflow%3A%22trailing+whitespace%22)
-[![](https://github.com/ansible-roles-matsumura/vim/workflows/yamllint/badge.svg)](https://github.com/ansible-roles-matsumura/vim/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-roles-matsumura/vim/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/vim/actions?query=workflow%3Abuild)
 
 # Ansible playbook build status
 
