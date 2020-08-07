@@ -73,10 +73,7 @@ Ansible Role - Nyancat (for CentOS7/CentOS8)
 
 Ansible Role - pong-command (for CentOS7/CentOS8)
 
-[![](https://github.com/ansible-roles-matsumura/pong-command/workflows/ansible-lint/badge.svg)](https://github.com/ansible-roles-matsumura/pong-command/actions?query=workflow%3Aansible-lint)
-[![](https://github.com/ansible-roles-matsumura/pong-command/workflows/molecule/badge.svg)](https://github.com/ansible-roles-matsumura/pong-command/actions?query=workflow%3Amolecule)
-[![](https://github.com/ansible-roles-matsumura/pong-command/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-roles-matsumura/pong-command/actions?query=workflow%3A%22trailing+whitespace%22)
-[![](https://github.com/ansible-roles-matsumura/pong-command/workflows/yamllint/badge.svg)](https://github.com/ansible-roles-matsumura/pong-command/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-roles-matsumura/pong-command/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/pong-command/actions?query=workflow%3Abuild)
 
 ## [ansible-roles-matsumura/sl](https://github.com/ansible-roles-matsumura/sl)
 
