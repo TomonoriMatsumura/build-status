@@ -99,10 +99,7 @@ Ansible Role - vim (for CentOS7/CentOS8)
 
 Ansible Playbook - ASCIIQuarium (for CentOS7)
 
-[![](https://github.com/ansible-joke-programs/asciiquarium/workflows/ansible-lint/badge.svg)](https://github.com/ansible-joke-programs/asciiquarium/actions?query=workflow%3Aansible-lint)
-[![](https://github.com/ansible-joke-programs/asciiquarium/workflows/molecule/badge.svg)](https://github.com/ansible-joke-programs/asciiquarium/actions?query=workflow%3Amolecule)
-[![](https://github.com/ansible-joke-programs/asciiquarium/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-joke-programs/asciiquarium/actions?query=workflow%3A%22trailing+whitespace%22)
-[![](https://github.com/ansible-joke-programs/asciiquarium/workflows/yamllint/badge.svg)](https://github.com/ansible-joke-programs/asciiquarium/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-joke-programs/asciiquarium/workflows/build/badge.svg)](https://github.com/ansible-joke-programs/asciiquarium/actions?query=workflow%3Abuild)
 
 ## [ansible-joke-programs/cmatrix](https://github.com/ansible-joke-programs/cmatrix)
 
