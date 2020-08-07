@@ -6,10 +6,7 @@
 
 Ansible Role - ASCIIQuarium (for CentOS7)
 
-[![](https://github.com/ansible-roles-matsumura/asciiquarium/workflows/ansible-lint/badge.svg)](https://github.com/ansible-roles-matsumura/asciiquarium/actions?query=workflow%3Aansible-lint)
-[![](https://github.com/ansible-roles-matsumura/asciiquarium/workflows/molecule/badge.svg)](https://github.com/ansible-roles-matsumura/asciiquarium/actions?query=workflow%3Amolecule)
-[![](https://github.com/ansible-roles-matsumura/asciiquarium/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-roles-matsumura/asciiquarium/actions?query=workflow%3A%22trailing+whitespace%22)
-[![](https://github.com/ansible-roles-matsumura/asciiquarium/workflows/yamllint/badge.svg)](https://github.com/ansible-roles-matsumura/asciiquarium/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-roles-matsumura/asciiquarium/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/asciiquarium/actions?query=workflow%3Abuild)
 
 ## [ansible-roles-matsumura/awscli](https://github.com/ansible-roles-matsumura/awscli)
 
