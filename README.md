@@ -61,10 +61,7 @@ Ansible Role - Hugo (for CentOS7/CentOS8)
 
 Ansible Role - jq (for CentOS7/CentOS8)
 
-[![](https://github.com/ansible-roles-matsumura/jq/workflows/ansible-lint/badge.svg)](https://github.com/ansible-roles-matsumura/jq/actions?query=workflow%3Aansible-lint)
-[![](https://github.com/ansible-roles-matsumura/jq/workflows/molecule/badge.svg)](https://github.com/ansible-roles-matsumura/jq/actions?query=workflow%3Amolecule)
-[![](https://github.com/ansible-roles-matsumura/jq/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-roles-matsumura/jq/actions?query=workflow%3A%22trailing+whitespace%22)
-[![](https://github.com/ansible-roles-matsumura/jq/workflows/yamllint/badge.svg)](https://github.com/ansible-roles-matsumura/jq/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-roles-matsumura/jq/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/jq/actions?query=workflow%3Abuild)
 
 ## [ansible-roles-matsumura/nyancat](https://github.com/ansible-roles-matsumura/nyancat)
 
