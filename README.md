@@ -129,7 +129,4 @@ Ansible Playbook - pong-command (for CentOS7/CentOS8)
 
 Ansible Playbook - sl (for CentOS7/CentOS8)
 
-[![](https://github.com/ansible-joke-programs/sl/workflows/ansible-lint/badge.svg)](https://github.com/ansible-joke-programs/sl/actions?query=workflow%3Aansible-lint)
-[![](https://github.com/ansible-joke-programs/sl/workflows/molecule/badge.svg)](https://github.com/ansible-joke-programs/sl/actions?query=workflow%3Amolecule)
-[![](https://github.com/ansible-joke-programs/sl/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-joke-programs/sl/actions?query=workflow%3A%22trailing+whitespace%22)
-[![](https://github.com/ansible-joke-programs/sl/workflows/yamllint/badge.svg)](https://github.com/ansible-joke-programs/sl/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-joke-programs/sl/workflows/build/badge.svg)](https://github.com/ansible-joke-programs/sl/actions?query=workflow%3Abuild)
