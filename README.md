@@ -119,6 +119,12 @@ Ansible Playbook - Cureutils (for CentOS7)
 
 [![](https://github.com/ansible-joke-programs/cureutils/workflows/build/badge.svg)](https://github.com/ansible-joke-programs/cureutils/actions?query=workflow%3Abuild)
 
+## [ansible-joke-programs/fortune](https://github.com/ansible-joke-programs/fortune)
+
+Ansible Playbook - Fortune (for CentOS7)
+
+[![](https://github.com/ansible-joke-programs/fortune/workflows/build/badge.svg)](https://github.com/ansible-joke-programs/fortune/actions?query=workflow%3Abuild)
+
 ## [ansible-joke-programs/pong-command](https://github.com/ansible-joke-programs/pong-command)
 
 Ansible Playbook - pong-command (for CentOS7/CentOS8)
