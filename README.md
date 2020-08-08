@@ -123,10 +123,7 @@ Ansible Playbook - Cureutils (for CentOS7)
 
 Ansible Playbook - pong-command (for CentOS7/CentOS8)
 
-[![](https://github.com/ansible-joke-programs/pong-command/workflows/ansible-lint/badge.svg)](https://github.com/ansible-joke-programs/pong-command/actions?query=workflow%3Aansible-lint)
-[![](https://github.com/ansible-joke-programs/pong-command/workflows/molecule/badge.svg)](https://github.com/ansible-joke-programs/pong-command/actions?query=workflow%3Amolecule)
-[![](https://github.com/ansible-joke-programs/pong-command/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-joke-programs/pong-command/actions?query=workflow%3A%22trailing+whitespace%22)
-[![](https://github.com/ansible-joke-programs/pong-command/workflows/yamllint/badge.svg)](https://github.com/ansible-joke-programs/pong-command/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-joke-programs/pong-command/workflows/build/badge.svg)](https://github.com/ansible-joke-programs/pong-command/actions?query=workflow%3Abuild)
 
 ## [ansible-joke-programs/sl](https://github.com/ansible-joke-programs/sl)
 
