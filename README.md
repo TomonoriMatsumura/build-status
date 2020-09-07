@@ -1,5 +1,3 @@
-[![CircleCI](https://circleci.com/gh/TomonoriMatsumura/scheduled-executor.svg?style=svg)](https://circleci.com/gh/TomonoriMatsumura/scheduled-executor)
-
 # Ansible role build status
 
 ## [ansible-roles-matsumura/asciiquarium](https://github.com/ansible-roles-matsumura/asciiquarium)
