@@ -149,6 +149,12 @@ Ansible Playbook - sl (for CentOS7/CentOS8)
 
 CentOS Images - Test environment for Ansible Molecule
 
+## [docker-hub-tm/ansible-tools](https://github.com/docker-hub-tm/ansible-tools)
+
+[![](https://github.com/docker-hub-tm/ansible-tools/workflows/build/badge.svg)](https://github.com/docker-hub-tm/ansible-tools/actions?query=workflow%3Abuild)
+
+Ansible Tools - Ansible, Ansible Lint, Molecule, Git and other tools are installed
+
 ## [docker-hub-tm/circleci-executors_molecule](https://github.com/docker-hub-tm/circleci-executors_molecule)
 
 [![](https://github.com/docker-hub-tm/circleci-executors_molecule/workflows/build/badge.svg)](https://github.com/docker-hub-tm/circleci-executors_molecule/actions?query=workflow%3Abuild)
