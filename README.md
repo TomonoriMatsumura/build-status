@@ -176,3 +176,9 @@ Ansible Tools - Ansible, Ansible Lint, Molecule, Git and other tools are install
 [![](https://github.com/docker-hub-tm/circleci-executors_molecule/workflows/build/badge.svg)](https://github.com/docker-hub-tm/circleci-executors_molecule/actions?query=workflow%3Abuild)
 
 CircleCI Executor - Ansible Molecule + Git installed
+
+## [docker-hub-tm/circleci-executors_packer](https://github.com/docker-hub-tm/circleci-executors_packer)
+
+[![](https://github.com/docker-hub-tm/circleci-executors_packer/workflows/build/badge.svg)](https://github.com/docker-hub-tm/circleci-executors_packer/actions?query=workflow%3Abuild)
+
+CircleCI Executor - Pakcer + Ansible + Git installed
