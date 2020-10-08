@@ -192,3 +192,11 @@ CircleCI Executor - Ansible Molecule + Git installed
 [![](https://github.com/docker-hub-tm/circleci-executors_packer/workflows/build/badge.svg)](https://github.com/docker-hub-tm/circleci-executors_packer/actions?query=workflow%3Abuild)
 
 CircleCI Executor - Pakcer + Ansible + Git installed
+
+# Packer AMI build build status
+
+## [packer-tm/aws-ami_centos7](https://github.com/packer-tm/aws-ami_centos7)
+
+[![CircleCI](https://circleci.com/gh/packer-tm/aws-ami_centos7.svg?style=svg)](https://circleci.com/gh/packer-tm/aws-ami_centos7)
+
+Packer AMI build script - Register CentOS7 yum updated VM image to AWS EC2 AMI
