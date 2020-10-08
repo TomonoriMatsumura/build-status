@@ -99,6 +99,12 @@ Ansible Role - VNC Server (for CentOS7)
 
 # Ansible playbook build status
 
+## [ansible-playbooks-centos7/ansible](https://github.com/ansible-playbooks-centos7/ansible)
+
+Ansible Playbook - Ansible (for CentOS7)
+
+[![](https://github.com/ansible-playbooks-centos7/ansible/workflows/build/badge.svg)](https://github.com/ansible-playbooks-centos7/ansible/actions?query=workflow%3Abuild)
+
 ## [ansible-joke-programs/asciiquarium](https://github.com/ansible-joke-programs/asciiquarium)
 
 Ansible Playbook - ASCIIQuarium (for CentOS7)
