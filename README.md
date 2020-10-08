@@ -129,6 +129,12 @@ Ansible Playbook - Cureutils (for CentOS7)
 
 [![](https://github.com/ansible-joke-programs/cureutils/workflows/build/badge.svg)](https://github.com/ansible-joke-programs/cureutils/actions?query=workflow%3Abuild)
 
+## [ansible-playbooks-centos7/docker](https://github.com/ansible-playbooks-centos7/docker/blob/master/README.md)
+
+Ansible Playbook - Docker (for CentOS7)
+
+[![](https://github.com/ansible-playbooks-centos7/docker/workflows/build/badge.svg)](https://github.com/ansible-playbooks-centos7/docker/actions?query=workflow%3Abuild)
+
 ## [ansible-joke-programs/fortune](https://github.com/ansible-joke-programs/fortune)
 
 Ansible Playbook - Fortune (for CentOS7)
