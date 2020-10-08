@@ -218,3 +218,9 @@ CircleCI Executor - Pakcer + Ansible + Git installed
 [![CircleCI](https://circleci.com/gh/packer-tm/aws-ami_centos7.svg?style=svg)](https://circleci.com/gh/packer-tm/aws-ami_centos7)
 
 Packer AMI build script - Register CentOS7 yum updated VM image to AWS EC2 AMI
+
+## [packer-tm/aws-ami_redmine](https://github.com/packer-tm/aws-ami_redmine)
+
+[![CircleCI](https://circleci.com/gh/packer-tm/aws-ami_redmine.svg?style=svg)](https://circleci.com/gh/packer-tm/aws-ami_redmine)
+
+Packer AMI build script - Register CentOS7 Redmine installed VM image to AWS EC2 AMI
