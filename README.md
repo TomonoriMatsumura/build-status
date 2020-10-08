@@ -179,6 +179,12 @@ Ansible Playbook - sl (for CentOS7/CentOS8)
 
 [![](https://github.com/ansible-joke-programs/sl/workflows/build/badge.svg)](https://github.com/ansible-joke-programs/sl/actions?query=workflow%3Abuild)
 
+## [ansible-playbooks-centos7/vnc-server](https://github.com/ansible-playbooks-centos7/vnc-server)
+
+Ansible Playbook - VNC Server (for CentOS7)
+
+[![](https://github.com/ansible-playbooks-centos7/vnc-server/workflows/build/badge.svg)](https://github.com/ansible-playbooks-centos7/vnc-server/actions?query=workflow%3Abuild)
+
 # Docker Image build build status
 
 ## [docker-hub-tm/ansible-test](https://github.com/docker-hub-tm/ansible-test)
