@@ -173,6 +173,12 @@ Ansible Playbook - Redmine (for CentOS7)
 [![](https://github.com/ansible-playbooks-centos7/redmine_install/workflows/yamllint/badge.svg)](https://github.com/ansible-playbooks-centos7/redmine_install/actions?query=workflow%3Ayamllint)
 [![CircleCI](https://circleci.com/gh/ansible-playbooks-centos7/redmine_install.svg?style=svg)](https://circleci.com/gh/ansible-playbooks-centos7/redmine_install)
 
+## [ansible-playbooks-centos7/redmine_restore](https://github.com/ansible-playbooks-centos7/redmine_restore)
+
+Ansible Playbook - Redmine restore (for CentOS7)
+
+[![](https://github.com/ansible-playbooks-centos7/redmine_restore/workflows/build/badge.svg)](https://github.com/ansible-playbooks-centos7/redmine_restore/actions?query=workflow%3Abuild)
+
 ## [ansible-joke-programs/sl](https://github.com/ansible-joke-programs/sl)
 
 Ansible Playbook - sl (for CentOS7/CentOS8)
