@@ -173,10 +173,7 @@ Ansible Playbook - RedMica (for CentOS7)
 
 Ansible Playbook - Redmine (for CentOS7)
 
-[![](https://github.com/ansible-playbooks-centos7/redmine_install/workflows/ansible-lint/badge.svg)](https://github.com/ansible-playbooks-centos7/redmine_install/actions?query=workflow%3Aansible-lint)
-[![](https://github.com/ansible-playbooks-centos7/redmine_install/workflows/molecule/badge.svg)](https://github.com/ansible-playbooks-centos7/redmine_install/actions?query=workflow%3Amolecule)
-[![](https://github.com/ansible-playbooks-centos7/redmine_install/workflows/trailing%20whitespace/badge.svg)](https://github.com/ansible-playbooks-centos7/redmine_install/actions?query=workflow%3A%22trailing+whitespace%22)
-[![](https://github.com/ansible-playbooks-centos7/redmine_install/workflows/yamllint/badge.svg)](https://github.com/ansible-playbooks-centos7/redmine_install/actions?query=workflow%3Ayamllint)
+[![](https://github.com/ansible-playbooks-centos7/redmine_install/workflows/build/badge.svg)](https://github.com/ansible-playbooks-centos7/redmine_install/actions?query=workflow%3Abuild)
 [![CircleCI](https://circleci.com/gh/ansible-playbooks-centos7/redmine_install.svg?style=svg)](https://circleci.com/gh/ansible-playbooks-centos7/redmine_install)
 
 ## [ansible-playbooks-centos7/redmine_restore - GitHub](https://github.com/ansible-playbooks-centos7/redmine_restore)
