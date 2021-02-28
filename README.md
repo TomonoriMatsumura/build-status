@@ -12,6 +12,12 @@ Ansible Role - AWS CLI version2 (for CentOS7/CentOS8)
 
 [![](https://github.com/ansible-roles-matsumura/awscli/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/awscli/actions?query=workflow%3Abuild)
 
+## [ansible-roles-matsumura/chrome - GitHub](https://github.com/ansible-roles-matsumura/chrome)
+
+Ansible Role - Google Chrome(for CentOS7)
+
+[![](https://github.com/ansible-roles-matsumura/chrome/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/chrome/actions?query=workflow%3Abuild)
+
 ## [ansible-roles-matsumura/circleci-cli - GitHub](https://github.com/ansible-roles-matsumura/circleci-cli)
 
 Ansible Role - circleci-cli (for CentOS7/CentOS8)
