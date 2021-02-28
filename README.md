@@ -18,6 +18,12 @@ Ansible Role - Google Chrome(for CentOS7)
 
 [![](https://github.com/ansible-roles-matsumura/chrome/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/chrome/actions?query=workflow%3Abuild)
 
+## [ansible-roles-matsumura/chromedriver - GitHub](https://github.com/ansible-roles-matsumura/chromedriver)
+
+Ansible Role - Google Chrome Driver(for CentOS7)
+
+[![](https://github.com/ansible-roles-matsumura/chromedriver/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/chromedriver/actions?query=workflow%3Abuild)
+
 ## [ansible-roles-matsumura/circleci-cli - GitHub](https://github.com/ansible-roles-matsumura/circleci-cli)
 
 Ansible Role - circleci-cli (for CentOS7/CentOS8)
