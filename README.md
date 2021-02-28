@@ -261,7 +261,7 @@ Packer AMI build script - Register CentOS7 Redmine restoreed VM image to AWS EC2
 
 [![](https://github.com/packer-tm/gcp-gce_redmica_install/workflows/build/badge.svg)](https://github.com/packer-tm/gcp-gce_redmica_install/actions?query=workflow%3Abuild)
 
-Packer GCE image build script - Register CentOS7 Redmica installed VM image to AWS EC2 AMI
+Packer GCE image build script - Register CentOS7 Redmica installed VM image to GCP GCE image 
 
 ## [packer-tm/gcp-gce_redmine_install - GitHub](https://github.com/packer-tm/gcp-gce_redmine_install)
 
