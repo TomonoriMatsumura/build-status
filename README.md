@@ -85,6 +85,12 @@ Ansible Role - pong-command (for CentOS7/CentOS8)
 
 [![](https://github.com/ansible-roles-matsumura/pong-command/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/pong-command/actions?query=workflow%3Abuild)
 
+## [ansible-roles-matsumura/pyenv - GitHub](https://github.com/ansible-roles-matsumura/pyenv)
+
+Ansible Role - pyenv (for CentOS7)
+
+[![](https://github.com/ansible-roles-matsumura/pyenv/workflows/build/badge.svg)](https://github.com/ansible-roles-matsumura/pyenv/actions?query=workflow%3Abuild)
+
 ## [ansible-roles-matsumura/sl - GitHub](https://github.com/ansible-roles-matsumura/sl)
 
 Ansible Role - sl (for CentOS7/CentOS8)
