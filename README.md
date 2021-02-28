@@ -221,7 +221,7 @@ CircleCI Executor - Pakcer + Ansible + Git installed
 
 ## [packer-tm/aws-ami_centos7 - GitHub](https://github.com/packer-tm/aws-ami_centos7)
 
-[![CircleCI](https://circleci.com/gh/packer-tm/aws-ami_centos7.svg?style=svg)](https://circleci.com/gh/packer-tm/aws-ami_centos7)
+[![](https://github.com/packer-tm/aws-ami_centos/workflows/build/badge.svg)](https://github.com/packer-tm/aws-ami_centos/actions?query=workflow%3Abuild)
 
 Packer AMI build script - Register CentOS7 yum updated VM image to AWS EC2 AMI
 
