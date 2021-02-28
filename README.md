@@ -255,6 +255,12 @@ Packer AMI build script - Register CentOS7 Redmica restored VM image to AWS EC2 
 
 Packer AMI build script - Register CentOS7 Redmine restored VM image to AWS EC2 AMI
 
+## [packer-tm/aws-ami_vnc-server - GitHub](https://github.com/packer-tm/aws-ami_vnc-server)
+
+[![](https://github.com/packer-tm/aws-ami_vnc-server/workflows/build/badge.svg)](https://github.com/packer-tm/aws-ami_vnc-server/actions?query=workflow%3Abuild)
+
+Packer AMI build script - Register CentOS7 VNC Server installed VM image to AWS EC2 AMI
+
 # Packer GCE image build build status
 
 ## [packer-tm/gcp-gce_redmica_install - GitHub](https://github.com/packer-tm/gcp-gce_redmica_install)
